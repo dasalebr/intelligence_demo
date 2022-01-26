@@ -1,4 +1,6 @@
 # Vulnerable by Design (Scenario One)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9cad45df-a3df-493f-987f-3ecfa6395c52.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/intelligence_demo?orgId=288883884012)  
 Deployment template to deploy sample misconfigured resources (virtual machines, virtual network, storage account and SQL databases) to Azure to test Azure security tools 
 
 Deploying
